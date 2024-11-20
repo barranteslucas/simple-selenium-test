@@ -1,0 +1,4 @@
+setuptools
+selenium
+python-dotenv
+chromedriver-autoinstaller
