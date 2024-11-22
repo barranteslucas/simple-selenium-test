@@ -1,7 +1,5 @@
 # Simple Selenium Test #
 
-# Python #
-
 Se corre con `./init.sh`.
 
 Se agrego un menu con opciones que corre la version de node o de python dependiendo lo que elijas
