@@ -1,0 +1,17 @@
+{
+  "name": "google-search-automation",
+  "version": "1.0.0",
+  "description": "A Node.js script that automates a Google search using Selenium WebDriver and the latest version of ChromeDriver.",
+  "main": "selenium-test.js",
+  "scripts": {
+    "start": "node selenium-test.js"
+  },
+  "keywords": ["selenium", "automation", "google-search", "nodejs", "chromedriver"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.12.0",
+    "chromedriver": "latest",
+    "dotenv": "^16.0.0"
+  }
+}

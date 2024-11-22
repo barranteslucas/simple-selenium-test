@@ -1,6 +1,11 @@
 # Simple Selenium Test #
 
-Se corre con `./selenium.sh`.
+# Python #
+
+Se corre con `./init.sh`.
+
+Se agrego un menu con opciones que corre la version de node o de python dependiendo lo que elijas
+
 Abre un navegador en google.com, busca apx.school y clickea en el primer link.
 
 ## Video de demostración ##
